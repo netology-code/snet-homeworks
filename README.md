@@ -29,7 +29,7 @@
 
 4.9[] [Firewall](4-09.md)
 
-4.10[] [DHCP, PXE]()
+4.10[x] [DHCP, PXE](4-10.md)
 
 4.11[] [DNS]()
 
