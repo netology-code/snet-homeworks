@@ -47,3 +47,5 @@
 5.3[x] [Полезные утилиты](5-03.md)
 
 5.4[x] [Разбор скриптов и написание своих скриптов. Linter. Shell check.](5-04.md)
+
+Скрипты к лекции 5.4 можно посмотреть [здесь](https://github.com/netology-code/snet-homeworks/tree/main/5-04)
