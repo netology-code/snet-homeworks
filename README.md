@@ -50,4 +50,4 @@
 
 5.5[x] [Разбор скриптов и написание своих скриптов. Linter. Shell check](5-05.md)
 
-Скрипты к лекции 5.5 можно посмотреть [здесь](https://github.com/netology-code/snet-homeworks/tree/main/5-05)
+Скрипты к лекции 5.5 можно посмотреть [здесь](https://github.com/netology-code/snet-homeworks/tree/snet-15/5-05)
