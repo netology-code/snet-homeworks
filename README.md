@@ -37,6 +37,8 @@
 
 4.13[x] [IPv6](4-13.md)
 
+[Дополнительное задание по воркшопу "Построение сети в Cisco Packet Tracer"](https://github.com/netology-code/snet-homeworks/blob/snet-18/extratask_workshop.md)
+
 		
 ## Модуль 5: Программирование на Bash
 
