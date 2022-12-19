@@ -11,12 +11,12 @@ if [ $# -gt 1 ] ; then
 	-d) lastcmd="cut -d/ -f3|sort|uniq"
 		shift
 		;;
-	-i) basedomain="http://$(echo "$2" | cut -d/ -f3)/"
-		lastcmd="grep \"^$basedomain\"|sed \"s|$basedomain||g\"|sort|uniq"
+	-i) basedomain="$(echo "$2" | cut -d/ -f3)/"
+		lastcmd="grep -E \"^https?://$basedomain\"|sed -E \"s|https?://$basedomain||g\"|sort|uniq"
 		shift
 		;;
-	-x) basedomain="http://$(echo "$2" | cut -d/ -f3)/"
-		lastcmd="grep -v \"^$basedomain\"|sort|uniq"
+	-x) basedomain="$(echo "$2" | cut -d/ -f3)/"
+		lastcmd="grep -Ev \"^https?://$basedomain\"|sort|uniq"
 		shift
 		;;
 	*) echo "$0: unknown option specified: $1" >&2
