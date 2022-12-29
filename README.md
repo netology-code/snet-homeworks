@@ -35,7 +35,7 @@
 
 12. [HTTP/HTTPS](4-12.md)
 
-13. [x] [IPv6](4-13.md)
+13. [IPv6](4-13.md)
 
 [Дополнительное задание по практикуму "Построение сети в Cisco Packet Tracer"](https://github.com/netology-code/snet-homeworks/blob/snet-18/extratask_workshop.md)
 
