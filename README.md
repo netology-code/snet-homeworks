@@ -51,5 +51,5 @@
 
 [Дополнительные материалы по модели OSI](4-01-osi.md)
 
-[Дополнительное задание по практикуму "Построение сети в Cisco Packet Tracer"](https://github.com/netology-code/snet-homeworks/blob/snet-18/extratask_workshop.md)
+[Дополнительное задание по практикуму "Построение сети в Cisco Packet Tracer"](extratask_workshop.md)
 
